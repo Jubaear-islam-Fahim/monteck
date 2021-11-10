@@ -1,0 +1,880 @@
+/* ============================================================
+
+ Theme Name: Monteck - Sports Club HTML Template
+ Theme URI: http://
+ Description: Monteck - Sports Club HTML Template
+ Author: Rifat
+ Author URI: http://thesoftking.com/
+ Version: 1.0 
+
+============================================================== */
+/* Large screens ----------- */
+@media only screen  and (min-width : 1920px) {
+.portfolio-wide {
+	padding: 220px 0;
+}
+.portfolio-cols { 
+	padding: 140px 0;
+}
+.fullslider .slider-text { 
+    top: 41%; 
+}
+
+
+} 
+
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+h2 {
+	font-size: 30px;
+}
+h3 {
+	font-size: 21px;
+}
+h4 {
+	font-size: 19px;
+}
+h5 {
+	font-size: 18px;
+}
+h6 {
+	font-size: 17px;
+}
+p {
+	font-size: 14px;
+	letter-spacing: 0;
+}
+.fullslider .slider-item-img img {
+    width: auto;
+    height: 700px;
+}
+.fullslider .slider-text { 
+	top: 36%; 
+}
+.fullslider .owl-prev {
+	left: 0;
+}
+.fullslider .owl-next {
+	right: 0;
+}
+.socile-footer a { 
+	margin: 0 1px;
+}
+.portfolio-item-text h6 {
+	font-size: 15px; 
+}
+.portfolio-col { 
+	padding: 70px 0;
+}
+.portfolio-cols {
+	padding: 48px 0;
+}
+.blog-ite-text h6 { 
+	font-size: 16px;
+}
+.btco-hover-menu a, .navbar > li > a {
+	text-transform: capitalize;
+	padding: 4px 13px;
+}
+.fullslider.owl-theme .owl-nav {
+	margin-top: 0px;
+	display: none;
+}
+.portfolio-wide {
+	padding: 89px 0 !important;
+}
+.portfolio-colss {
+	color: #fff;
+	padding: 40px 0 !important;
+}
+.about-cycling-text {
+	padding: 0px 0;
+}
+.choose-text {
+    padding: 30px 0;
+}
+.event-text ul li { 
+	font-size: 14px;  
+	margin-right: 9px;
+}
+.services-item-text h4 { 
+    font-size: 19px;
+}
+.blog-text ul li { 
+	margin-right: 3px;
+}
+.blog-text ul li a { 
+	font-size: 13px;
+}
+.blog-text2 p {
+	font-size: 13px;
+	letter-spacing: .2px;
+	line-height: 22px;
+}
+.Read { 
+	width: auto; 
+	padding: 10px 0;
+	padding-bottom: 0;
+	margin-top: -2px; 
+	font-weight: 500;
+	line-height: 16px;
+}
+.all-logo-slider .owl-nav.disabled + .owl-dots {
+	margin-top: 10px;
+	display: none;
+}
+.details-sulf ul li {
+	display: inline;
+	padding: 0 5px;
+}
+.relative-item p {
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 20px;
+	padding-top: 10px;
+	overflow: hidden;
+}
+.relative-item span {
+	font-size: 12px; 
+}
+
+}
+
+
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.fullslider .slider-item-img img {
+    width: auto; 
+}
+.icon-bar {
+	color: #fff;
+}
+#my-menu li a { 
+	padding: 15px 15px; 
+}
+.dropdown-toggle::after {
+	display: inline-block;
+	font-size: 20px;
+}
+.menu-shop.nav {
+	margin: 25px 0;
+}
+.slider-all-text h1 {
+	font-size: 40px; 
+	line-height: 50px; 
+}
+.slider-all-text p {
+	height: 41px;
+	font-size: 14px; 
+}
+.fullslider.owl-theme .owl-nav {
+	margin-top: 0px;
+	display: none;
+}
+.fullslider .owl-next {
+	right: 0;
+}
+.fullslider.owl-theme .owl-nav [class*="owl-"] { 
+	font-size: 30px !important; 
+}
+.about-cycling-text {
+	padding: 25px 0;
+	padding-bottom: 0;
+}
+.cols-5 {
+	flex: 0 0 33.333%;
+	width: 33%;
+}
+.progression a {
+	margin-top: 40px;
+}
+.progression {
+	float: left;
+}
+.blog-text2 {
+	padding: 29px 0;
+}
+.choose-text {
+	padding: 35px 0;
+	padding-top: 0;
+}
+.portfolio-cols {
+	color: #fff;
+	padding: 75px 0;
+}
+.all-logo-slider.owl-theme .owl-nav.disabled + .owl-dots {
+	margin-top: 10px;
+	display: none;
+}
+.footer-item h3 {
+	padding-bottom: 29px;
+}
+.event-details-item {
+	margin-bottom: 30px;
+}
+.portfolio-wide {
+	padding: 105px 0;
+}
+.portfolio-colss { 
+	padding: 80px 0;
+}
+.form-inlines input {
+	width: 95%;
+	height: 35px;
+	padding: 0 14px;
+}
+.dropdown-menu.serchbox {
+	right: -238px; 
+}
+.dropdown-menu.show { 
+	left: 0px; 
+}
+.form-inline.my-2.my-lg-0 {
+	margin: 0 !important;
+	padding: 0;
+}
+.form-inline .form-control { 
+    width: 70%;
+}
+.padding-0 {
+	padding: 0 15px;
+}
+.menu-shop.nav {
+	margin: 25px 15px;
+}
+.about-cycling-item.padding-0 {
+	padding: 0;
+}
+.out-slider-content {
+	margin-top: 170px;
+	margin-bottom: 115px; 
+}
+
+}
+
+
+
+/* Extra small Device. */
+@media (max-width: 767px) { 
+.fullslider .slider-item-img img {
+    width: auto; 
+}
+.icon-bar {
+	color: #fff;
+}
+#my-menu li a { 
+	padding: 15px 15px; 
+}
+.dropdown-toggle::after {
+	display: inline-block;
+	font-size: 20px;
+}
+.menu-shop.nav {
+	margin: 25px 0;
+}
+.slider-all-text h1 {
+	font-size: 40px; 
+	line-height: 50px; 
+}
+.slider-all-text p {
+	height: 41px;
+	font-size: 14px; 
+}
+.slider-all-text p br {
+	display: none; 
+}
+.fullslider.owl-theme .owl-nav {
+	margin-top: 0px;
+	display: none;
+}
+.about-cycling-text {
+	padding: 25px 0;
+	padding-bottom: 0;
+}
+.cols-5 {
+	flex: 0 0 33.333%;
+	width: 33%;
+}
+.progression a {
+	margin-top: 40px;
+}
+.progression {
+	float: left;
+}
+.blog-text2 {
+	padding: 29px 0;
+}
+.choose-text {
+	padding: 35px 0;
+	padding-top: 0;
+}
+.portfolio-cols {
+	color: #fff;
+	padding: 75px 0;
+}
+.portfolio-cols { 
+	padding: 145px 0;
+}
+.portfolio-wide {
+	padding: 35% 0;
+}
+.portfolio-col {
+	color: #fff;
+	padding: 35% 0;
+}
+.blog-2 {
+	display: inherit;
+	margin-right: 10px;
+	float: unset;
+}
+.blog-text2 {
+	padding: 30px 30px;
+}
+.all-logo-slider.owl-theme .owl-nav.disabled + .owl-dots {
+	margin-top: 10px;
+	display: none;
+}
+.wol-btn i { 
+	font-size: 15px;
+}
+.wolbtn1 { 
+	top: 10px;
+	margin-left: 127px;
+}
+.wolbtn2 { 
+	top: 35px;
+	margin-left: 60%;
+}
+.wolbtn3 { 
+	top: 60px;
+	margin-left: 5%;
+}
+.wolbtn4 { 
+	top: 73px;
+	margin-left: 79%;
+}
+.wolbtn5 { 
+	top: 100px;
+	margin-left: 41%;
+}
+.wolbtn6 { 
+	top: 112px;
+	margin-left: 63%;
+}
+.wolbtn8 { 
+	top: 198px;
+	margin-left: 80%;
+}
+.footer-item h3 {
+	padding-bottom: 30px;
+}
+.portfolio-button.filter-button-group button { 
+	font-size: 14PX; 
+	margin: 0 2px;
+}
+.details-sulf ul li {
+	display: inline;
+	padding: 0 4px;
+	font-size: 13px;
+}
+.event-details-text {
+	margin-bottom: 30px;
+}
+.dropdown-menu.serchbox {
+	right: -238px; 
+}
+.dropdown-menu.show { 
+	left: 0px; 
+}
+.form-inline.my-2.my-lg-0 {
+	margin: 0 !important;
+	padding: 0;
+}
+.menu-shop.nav {
+	margin: 25px 15px;
+}
+.form-inline .form-control { 
+    width: 70%;
+}
+.fullslider .slider-item-img img {
+	width: auto;
+	height: 550px;
+}
+.fullslider .slider-text { 
+	top: 32%; 
+}
+.out-slider-content {
+	margin-top: 170px;
+	margin-bottom: 115px; 
+}
+ 
+}
+
+
+ 
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+.fullslider .slider-item-img img {
+	width: auto;
+	height: 550px;
+}
+.fullslider .slider-text { 
+	top: 32%; 
+}
+.ma-l {
+	margin-left: 0;
+}
+ 
+}
+
+
+
+/* Extra Small Devices, Phones */ 
+@media (max-width : 479px) { 
+h2 {
+	font-size: 30px;
+}
+h3 {
+	font-size: 20px;
+}
+h4 {
+	font-size: 18px;
+}
+
+.cols-5 {
+	flex: 0 0 50%;
+	width: 50%;
+}  
+.blog-2 {
+	display: inherit;
+	float: unset;
+	margin-right: 10px;
+} 
+.portfolio-button.filter-button-group button {
+	background: none;
+	border: 0;
+	font-size: 15PX;
+	font-weight: 700;
+	margin: 0 1px;
+}
+.ma-l {
+	margin-left: 0;
+}
+#copy-right p {
+	color: #fff;
+	font-size: 13px;
+}
+.blog-text {
+	padding: 20px;
+	background: #f8f8f8;
+}
+.event-text ul li {
+	display: inline-block;
+	font-size: 13px;
+	color: #242424;
+	padding: 15px 0px;
+	margin-right: 17px;
+} 
+.slider-all-text h1 {
+	font-size: 36px; 
+}
+.slider-all-text h1 {
+	font-size: 36px;
+	line-height: 50px;
+}
+.wolbtn7 { 
+	top: 188px;
+	margin-left: 25%;
+}
+.portfolio-col { 
+	padding: 31% 0;
+}
+.details-text {
+	padding: 25px 10px;
+}
+.details-sulf ul li { 
+	padding: 0 2px; 
+}
+ 
+}
+
+
+
+/* Extra Small Devices, Phones */ 
+@media (max-width : 414px) { 
+ 
+}
+
+
+
+/* Custom, iPhone Retina */ 
+@media (min-width : 360px) and (max-width: 478px)  {
+.cols-5 {
+	flex: 0 0 100%;
+	width: 100%;
+} 
+h2 {
+	font-size: 25px;
+}
+p { 
+	font-size: 14px;
+}
+.out-slider-content p {
+	color: #fff;
+	font-size: 17px;
+}
+h3 {
+	font-size: 19px;
+}
+h6 {
+	font-size: 16px;
+}
+.btn {
+	width: 100%;
+}
+.fullslider.owl-theme .owl-nav [class*="owl-"] {
+	font-size: 30px !important;
+	display: none;
+}
+.portfolio-button.filter-button-group button { 
+	margin: 7px 1px;
+}
+.details-sulf ul li {
+	display: inline-block;
+	padding: 13px 22px;
+}
+.shop-text a { 
+	width: 55%;
+}
+.slider-all-text h1 br {
+	display: none
+}
+.slider-all-text h1 {
+	font-size: 26px;
+	line-height: 32px;
+	letter-spacing: 0;
+}
+.slider-all-text p {
+	font-size: 13px;
+	margin-bottom: 80px;
+}
+.slider-all-text a {
+	margin-top: 14px;
+}
+.fullslider .slider-text { 
+	top: 25%; 
+}
+.fullslider .slider-item-img img {
+	width: auto;
+	height: 500px;
+}
+.wolbtn1 {
+	top: 1px;
+	margin-left: 72px;
+}
+.wolbtn2 {
+	top: 15px;
+	margin-left: 58%;
+}
+.wolbtn3 {
+	top: 35px;
+	margin-left: 3%;
+}
+.wolbtn4 {
+	top: 44px;
+	margin-left: 73%;
+}
+.wolbtn5 {
+	top: 52px;
+	margin-left: 38%;
+}
+.wolbtn6 {
+	top: 68px;
+	margin-left: 62%;
+}
+.wolbtn7 {
+	top: 123px;
+	margin-left: 20%;
+}
+.wolbtn8 {
+	top: 110px;
+	margin-left: 76%;
+}
+.blog-text2 p {
+	font-size: 14px; 
+}
+.portfolio-col {
+	padding: 25% 0;
+} 
+.blog-ite-chang li a { 
+	padding: 8px 13px; 
+	font-size: 14px; 
+}
+.details-sulf ul li:nth-child(2) {
+	display: none;
+}
+.details-sulf ul li:nth-child(4) {
+	display: none;
+}
+.details-sulf ul li:nth-child(6) {
+	display: none;
+}
+.details-sulf ul li {
+	display: inline-block;
+	padding: 10px 6px;
+}
+.commtent-text p {
+	padding-top: 15px;
+	font-size: 13px;
+}
+.commtent-item img {
+	display: inline-block;
+	float: left;
+	margin-right: 14px;
+	width: 18%;
+}
+#contact-map {
+	width: 100%;
+	height: 350px;
+}
+.fullslider .slider-text {
+	top: 23%;
+}
+.about-cycling-text p {
+	line-height: 28px;
+	text-align: left;
+}
+.pt-90 {
+	padding-top: 70px !important;
+}
+.pb-95 {
+	padding-bottom: 75px !important;
+}
+.out-slider-content {
+	margin-top: 125px;
+	margin-bottom: 80px;
+}
+.about-cycling-text {
+	padding: 0;
+	padding-bottom: 0;
+}
+.pt-70 {
+	padding-top: 40px !important;
+}
+.pb-100 {
+	padding-bottom: 70px !important;
+}
+.pb-90 {
+	padding-bottom: 70px !important;
+}
+.pt-65 {
+	padding-top: 40px !important;
+}
+.pt-60 {
+	padding-top: 40px !important;
+}
+.relative-item img {  
+	width: 34%;
+}
+.relative-item span {
+	padding-top: 0;
+	display: inherit;
+	color: #b3b3b3;
+	font-size: 13px;
+}
+.relative-item p {
+	font-size: 12px; 
+	padding-top: 12px;
+}
+}
+
+
+
+/* Custom, iPhone Retina */ 
+@media (min-width : 320px) and (max-width: 478px)  {
+.cols-5 {
+	flex: 0 0 100%;
+	width: 100%;
+} 
+h2 {
+	font-size: 25px;
+}
+p { 
+	font-size: 14px;
+}
+.out-slider-content p {
+	color: #fff;
+	font-size: 17px;
+}
+h3 {
+	font-size: 19px;
+}
+h6 {
+	font-size: 16px;
+}
+.btn {
+	width: 100%;
+}
+.fullslider.owl-theme .owl-nav [class*="owl-"] {
+	font-size: 30px !important;
+	display: none;
+}
+.portfolio-button.filter-button-group button { 
+	margin: 7px 1px;
+}
+.details-sulf ul li {
+	display: inline-block;
+	padding: 13px 22px;
+}
+.shop-text a { 
+	width: 55%;
+}
+.slider-all-text h1 br {
+	display: none
+}
+.slider-all-text h1 {
+	font-size: 26px;
+	line-height: 32px;
+	letter-spacing: 0;
+}
+.slider-all-text p {
+	font-size: 13px;
+	margin-bottom: 80px;
+}
+.slider-all-text a {
+	margin-top: 14px;
+}
+.fullslider .slider-text { 
+	top: 25%; 
+}
+.fullslider .slider-item-img img {
+	width: auto;
+	height: 500px;
+}
+.wolbtn1 {
+	top: 1px;
+	margin-left: 72px;
+}
+.wolbtn2 {
+	top: 15px;
+	margin-left: 58%;
+}
+.wolbtn3 {
+	top: 35px;
+	margin-left: 3%;
+}
+.wolbtn4 {
+	top: 44px;
+	margin-left: 73%;
+}
+.wolbtn5 {
+	top: 52px;
+	margin-left: 38%;
+}
+.wolbtn6 {
+	top: 68px;
+	margin-left: 62%;
+}
+.wolbtn7 {
+	top: 123px;
+	margin-left: 20%;
+}
+.wolbtn8 {
+	top: 110px;
+	margin-left: 76%;
+}
+.blog-text2 p {
+	font-size: 14px; 
+}
+.portfolio-col {
+	padding: 25% 0;
+} 
+.blog-ite-chang li a { 
+	padding: 8px 13px; 
+	font-size: 14px; 
+}
+.details-sulf ul li:nth-child(2) {
+	display: none;
+}
+.details-sulf ul li:nth-child(4) {
+	display: none;
+}
+.details-sulf ul li:nth-child(6) {
+	display: none;
+}
+.details-sulf ul li {
+	display: inline-block;
+	padding: 10px 6px;
+}
+.commtent-text p {
+	padding-top: 15px;
+	font-size: 13px;
+}
+.commtent-item img {
+	display: inline-block;
+	float: left;
+	margin-right: 14px;
+	width: 18%;
+}
+#contact-map {
+	width: 100%;
+	height: 350px;
+}
+.fullslider .slider-text {
+	top: 23%;
+}
+.about-cycling-text p {
+	line-height: 28px;
+	text-align: left;
+}
+.pt-90 {
+	padding-top: 70px !important;
+}
+.pb-95 {
+	padding-bottom: 75px !important;
+}
+.out-slider-content {
+	margin-top: 125px;
+	margin-bottom: 80px;
+}
+.about-cycling-text {
+	padding: 0;
+	padding-bottom: 0;
+}
+.pt-70 {
+	padding-top: 40px !important;
+}
+.pb-100 {
+	padding-bottom: 70px !important;
+}
+.pb-90 {
+	padding-bottom: 70px !important;
+}
+.pt-65 {
+	padding-top: 40px !important;
+}
+.pt-60 {
+	padding-top: 40px !important;
+}
+.relative-item img {  
+	width: 34%;
+}
+.relative-item span {
+	padding-top: 0;
+	display: inherit;
+	color: #b3b3b3;
+	font-size: 13px;
+}
+.relative-item p {
+	font-size: 12px; 
+	padding-top: 12px;
+}
+
+}
